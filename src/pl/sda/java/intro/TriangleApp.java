@@ -1,3 +1,5 @@
+package pl.sda.java.intro;
+
 public class TriangleApp {
     public static void main(String[] args) {
         // Tworzenie obiektu o nazwie triangle klasy Triangle o adanych wymiarach a,b,c

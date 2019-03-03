@@ -1,3 +1,5 @@
+package pl.sda.java.intro.datatypes;
+
 public class Przedziały {
     public static void main(String[] args) {
 

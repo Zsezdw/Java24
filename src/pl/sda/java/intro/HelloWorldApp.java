@@ -1,3 +1,7 @@
+package pl.sda.java.intro;
+
+import pl.sda.java.intro.oop.Car;
+
 public class HelloWorldApp {
     public static void main(String[] args) {
         //utworzenie nowej zmiennej klasy Car o nazwie Toyota
